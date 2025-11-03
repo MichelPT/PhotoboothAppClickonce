@@ -1,0 +1,16 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "Midtrans": {
+    "ServerKey": "Mid-server-xPqSlGupcYfFFVZZaN1XofrX"
+  }, 
+  "Supabase": {
+    "Url": "https://pnujxprecurdgeunjgvu.supabase.co",
+    "Key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBudWp4cHJlY3VyZGdldW5qZ3Z1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjE3Mzk3ODYsImV4cCI6MjA3NzMxNTc4Nn0.ER63AF_L5Gkma52YpPRDg0seYFJ8lSXrIL9rYfrn414"
+  }
+}
